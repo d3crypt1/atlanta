@@ -18,3 +18,6 @@ Developed in python.
 ### To build/run usin docker-compose
 * From terminal in the atlanta_sales_app directory:
 `docker-compose up -d --build`
+
+## Screenshot of hover
+![Hover](app_hover.png)
