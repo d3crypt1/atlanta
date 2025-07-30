@@ -21,7 +21,7 @@ def load_data(year):
     
 def plot_map(data, year):
     geojson = load_geojson()
-    token = 'pk.eyJ1IjoiZGVjcnlwdCIsImEiOiJjbWFpZGw3cnYwZjZpMnFwemF4enZzcThnIn0.5Ll8tKXqQUdi0cojqY4ogQ'
+    token = '' # You must generate a token 
     #center_lon = -84.390035
     #center_lat = 33.744042
     center_lon = -84.41
